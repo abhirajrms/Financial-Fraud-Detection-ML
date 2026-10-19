@@ -81,4 +81,4 @@ Data Analytics Portfolio Project
 
 ## Dashboard Preview
 
-![Financial Fraud Detection Dashboard](fraud-detection-dashboard.png)
+![Financial Fraud Detection Dashboard](Fraud-Detection-Dashboard.png)
