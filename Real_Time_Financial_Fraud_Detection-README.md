@@ -78,3 +78,7 @@ This is a simulated demonstration, not a live banking system.
 
 ## Author
 Data Analytics Portfolio Project
+
+## Dashboard Preview
+
+![Financial Fraud Detection Dashboard](fraud-detection-dashboard.png)
